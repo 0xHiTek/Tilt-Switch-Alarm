@@ -1,0 +1,11 @@
+Arduino Uno R3
+
+Tilt switch (ball-type tilt sensor)
+
+1× Buzzer
+
+1× LED (for visual alarm)
+
+220 Ω resistor (for LED)
+
+Breadboard + jumper wires
