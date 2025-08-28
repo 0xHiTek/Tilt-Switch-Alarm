@@ -1,0 +1,11 @@
+Tilt Switch
+
+One leg → D2
+
+Other leg → GND
+
+Enable INPUT_PULLUP so it reads HIGH normally, LOW when tilted
+
+Buzzer: D8 → Buzzer +, Buzzer – → GND
+
+LED: D9 → LED anode → 220 Ω → GND
